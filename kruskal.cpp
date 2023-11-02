@@ -97,5 +97,4 @@ int main()
 	}
 	kruskal(vertexnum + 1, edgesnum);
 	printf("\nThe cost of minimum spanning tree: %d\n",total);
-	
 }
