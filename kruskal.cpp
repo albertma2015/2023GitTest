@@ -96,5 +96,5 @@ int main()
 		printf("end\n");
 	}
 	kruskal(vertexnum + 1, edgesnum);
-	printf("Make it conflict\n");
+	printf("Make it conflict!!!\n");
 }
