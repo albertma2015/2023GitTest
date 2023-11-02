@@ -96,6 +96,5 @@ int main()
 		printf("end\n");
 	}
 	kruskal(vertexnum + 1, edgesnum);
-	printf("\nThe cost of minimum spanning tree: %d\n",total);
 	printf("Make it conflict\n");
 }
